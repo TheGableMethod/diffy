@@ -53,7 +53,7 @@ imagesize==1.1.0          # via sphinx
 importlib-metadata==0.9   # via pre-commit
 inflection==0.3.1
 itsdangerous==1.1.0
-jinja2==2.10.1
+jinja2==2.11.3
 jmespath==0.9.4
 jsondiff==1.1.2
 jsonpickle==1.1
@@ -80,7 +80,7 @@ pycodestyle==2.5.0        # via flake8
 pycparser==2.19           # via cffi
 pycryptodome==3.8.1       # via python-jose
 pyflakes==2.1.1           # via flake8
-pygments==2.3.1           # via sphinx
+pygments==2.7.4           # via sphinx
 pyparsing==2.4.0          # via packaging
 pyrsistent==0.14.11
 pytest-cov==2.6.1
@@ -90,7 +90,7 @@ python-dateutil==2.8.0
 python-jose==2.0.2
 python-levenshtein==0.12.0
 pytz==2019.1
-pyyaml==5.1
+pyyaml==5.2
 raven[flask]==6.10.0
 redis==3.2.1
 requests==2.21.0          # via aws-xray-sdk, codecov, docker, responses, sphinx
@@ -119,7 +119,7 @@ typed-ast==1.3.2          # via mypy
 urllib3==1.24.1
 virtualenv==16.4.3        # via pre-commit
 websocket-client==0.56.0  # via docker
-werkzeug==0.15.2
+werkzeug==0.15.3
 wrapt==1.11.1             # via aws-xray-sdk
 xmltodict==0.12.0
 zipp==0.3.3               # via importlib-metadata
