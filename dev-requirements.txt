@@ -29,7 +29,7 @@ codecov==2.0.15
 cookies==2.2.1
 coverage==4.5.3           # via codecov, pytest-cov
 croniter==0.3.29
-cryptography==2.6.1
+cryptography==42.0.2
 decorator==4.4.0
 deepdiff==4.0.6
 docker-pycreds==0.4.0     # via docker
@@ -78,7 +78,7 @@ py==1.8.0                 # via pytest
 pyaml==18.11.0
 pycodestyle==2.5.0        # via flake8
 pycparser==2.19           # via cffi
-pycryptodome==3.8.1       # via python-jose
+pycryptodome==3.19.1       # via python-jose
 pyflakes==2.1.1           # via flake8
 pygments==2.3.1           # via sphinx
 pyparsing==2.4.0          # via packaging
